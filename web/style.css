@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+}
+
+.container-column {
+    flex-direction: column;
+}
+
+.img-fluid {
+    
+}
+
+.item {
+    order: 0;
+}
+
+a {
+    color: red;
+}
+
+a > span {
+    font: bold;
+}
